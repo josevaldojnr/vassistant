@@ -1,0 +1,13 @@
+boto3
+pyaudio
+pydub
+numpy
+python-dotenv
+torch
+tqdm
+more-itertools
+tiktoken
+triton>=2.0.0;platform_machine=="x86_64" and sys_platform=="linux" or sys_platform=="linux2"
+git+https://github.com/openai/whisper.git
+torch==2.1.0+cu118
+requests
