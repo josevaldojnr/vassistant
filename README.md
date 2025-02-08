@@ -1,6 +1,6 @@
 Assistente de Voz (UNIMED)
 
-<h1>INTALAÇÃO</h1>
+<h1>INSTALAÇÃO</h1>
 <li>
   Crie uma conta na AWS
 </li>
